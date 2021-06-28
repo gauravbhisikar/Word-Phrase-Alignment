@@ -1,0 +1,32 @@
+----
+0010
+S-> This book is about a solution to these more intuitive problems.
+T-> यह पुस्तक इन अधिक सहज समस्याओं के समाधान के बारे में है।
+
+Manually generated Grouping:
+
+S-1 NP-(This book) LWG-(is) PP-(about a solution) NP1-(to these more intuitive problems).
+
+
+[[['This'], ['book']], [['is'], [['about'], [[['a'], ['solution']], [['to'], [['these'], [['more'], ['intuitive']], ['problems']]]]]], ['.']]
+
+[['This'], ['book']]
+
+[['is'], [['about'], [[['a'], ['solution']], [['to'], [['these'], [['more'], ['intuitive']], ['problems']]]]]]
+
+[['about'], [[['a'], ['solution']], [['to'], [['these'], [['more'], ['intuitive']], ['problems']]]]]
+
+[[['a'], ['solution']], [['to'], [['these'], [['more'], ['intuitive']], ['problems']]]]
+
+[['a'], ['solution']]
+
+[['to'], [['these'], [['more'], ['intuitive']], ['problems']]]
+
+[['these'], [['more'], ['intuitive']], ['problems']]
+
+[['more'], ['intuitive']]
+
+
+Program Generated Grouping:
+ 
+NP-(This book) VBZ-(is) PP-(about) NP1-(a solution) TO-(to) NP2-(these more intuitive problems).

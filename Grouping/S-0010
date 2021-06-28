@@ -1,0 +1,31 @@
+----
+0028
+S-> Several artiﬁcial intelligence projects have sought to hard-code knowledge about the world in formal languages.
+
+S-1 NP-(Several artiﬁcial intelligence projects) LWG(have sought) NP1-(to hard-code knowledge) NP2-(about the world) PP-(in formal languages).
+
+
+[[['Several'], ['arti\xef\xac\x81cial'], ['intelligence'], ['projects']], [['have'], [['sought'], [['to'], [[['hard'], ['-'], ['code']], ['knowledge']]], [['about'], [[['the'], ['world']], [['in'], [['formal'], ['languages']]]]]]], ['.']]
+
+[['Several'], ['arti\xef\xac\x81cial'], ['intelligence'], ['projects']]
+
+[['have'], [['sought'], [['to'], [[['hard'], ['-'], ['code']], ['knowledge']]], [['about'], [[['the'], ['world']], [['in'], [['formal'], ['languages']]]]]]]
+
+[['sought'], [['to'], [[['hard'], ['-'], ['code']], ['knowledge']]], [['about'], [[['the'], ['world']], [['in'], [['formal'], ['languages']]]]]]
+
+[['to'], [[['hard'], ['-'], ['code']], ['knowledge']]]
+
+[[['hard'], ['-'], ['code']], ['knowledge']]
+
+[['hard'], ['-'], ['code']]
+
+[['about'], [[['the'], ['world']], [['in'], [['formal'], ['languages']]]]]
+
+[[['the'], ['world']], [['in'], [['formal'], ['languages']]]]
+
+[['the'], ['world']]
+
+[['in'], [['formal'], ['languages']]]
+
+[['formal'], ['languages']]
+

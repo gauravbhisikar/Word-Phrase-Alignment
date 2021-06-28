@@ -1,0 +1,5 @@
+[main] INFO edu.stanford.nlp.parser.lexparser.LexicalizedParser - Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [0.9 sec].
+Parsing file: input
+Parsing [sent. 1 len. 11]: A big fat boy is eating a lot of fruits .
+Parsed file: input [1 sentences].
+Parsed 11 words in 1 sentences (12.96 wds/sec; 1.18 sents/sec).

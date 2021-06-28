@@ -1,0 +1,1 @@
+(ROOT (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (NNP IBM) (NNP ’s) (NNP Deep) (NNP Blue)) (NP (NN chess) (HYPH -) (NN playing) (NN system))) (VP (VBD defeated) (NP (NP (NML (NN world) (NN champion)) (NNP Garry) (NNP Kasparov)) (PP (IN in) (NP (CD 1997)))) (PRN (-LRB- -LRB-) (NP (NNP Hsu)) (, ,) (NP (CD 2002)) (-RRB- -RRB-))) (. .)))

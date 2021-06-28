@@ -1,0 +1,1 @@
+[ROOT [S [S [VP [VBG Learning] [CC or] [VBG evaluating] [NP [DT this] [NN mapping]]]] [VP [VBZ seems] [ADJP [JJ insurmountable]] [SBAR [IN if] [S [VP [VBD tackled] [ADVP [RB directly]]]]]] [. .]]]

@@ -1,0 +1,1 @@
+[ROOT [S [PP [VBN Given] [NP [DT the] [NNS pixels]]] [, ,] [NP [DT the] [NN ﬁrst] [NN layer]] [VP [MD can] [ADVP [RB easily]] [VP [VB identify] [NP [NNS edges]] [, ,] [PP [IN by] [S [VP [VBG comparing] [NP [NP [DT the] [NNS brightness]] [PP [IN of] [NP [VBG neighboring] [NNS pixels]]]]]]]]] [. .]]]

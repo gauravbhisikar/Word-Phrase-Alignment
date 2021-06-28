@@ -1,0 +1,35 @@
+----
+0027
+S-> One of the key challenges in artiﬁcial intelligence is how to get this informal knowledge into a computer.
+
+S-1 NP-(One of the key challenges) PP-(in artiﬁcial intelligence) LWG-(is how to get) NP1-(this informal knowledge) PP1-(into a computer).
+
+
+[[[['One']], [['of'], [[['the'], ['key'], ['challenges']], [['in'], [['arti\xef\xac\x81cial'], ['intelligence']]]]]], [['is'], [[['how']], [[['to'], [['get'], [['this'], ['informal'], ['knowledge']], [['into'], [['a'], ['computer']]]]]]]], ['.']]
+
+[[['One']], [['of'], [[['the'], ['key'], ['challenges']], [['in'], [['arti\xef\xac\x81cial'], ['intelligence']]]]]]
+
+[['of'], [[['the'], ['key'], ['challenges']], [['in'], [['arti\xef\xac\x81cial'], ['intelligence']]]]]
+
+[[['the'], ['key'], ['challenges']], [['in'], [['arti\xef\xac\x81cial'], ['intelligence']]]]
+
+[['the'], ['key'], ['challenges']]
+
+[['in'], [['arti\xef\xac\x81cial'], ['intelligence']]]
+
+[['arti\xef\xac\x81cial'], ['intelligence']]
+
+[['is'], [[['how']], [[['to'], [['get'], [['this'], ['informal'], ['knowledge']], [['into'], [['a'], ['computer']]]]]]]]
+
+[[['how']], [[['to'], [['get'], [['this'], ['informal'], ['knowledge']], [['into'], [['a'], ['computer']]]]]]]
+
+[['to'], [['get'], [['this'], ['informal'], ['knowledge']], [['into'], [['a'], ['computer']]]]]
+
+[['get'], [['this'], ['informal'], ['knowledge']], [['into'], [['a'], ['computer']]]]
+
+[['this'], ['informal'], ['knowledge']]
+
+[['into'], [['a'], ['computer']]]
+
+[['a'], ['computer']]
+

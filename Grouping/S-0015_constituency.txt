@@ -1,0 +1,1 @@
+[ROOT [S [NP [NP [DT The] [NN function] [NN mapping]] [PP [IN from] [NP [NP [DT a] [NN set]] [PP [IN of] [NP [NP [NNS pixels]] [PP [TO to] [NP [DT an] [NN object] [NN identity]]]]]]]] [VP [VBZ is] [ADJP [RB very] [VBN complicated]]] [. .]]]

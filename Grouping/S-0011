@@ -1,0 +1,18 @@
+----
+0029
+S-> A computer can reason automatically about statements in these formal languages using logical inference rules.
+S-1 NP-(A computer) LWG-(can reason automatically) NP1-(about statements) PP-(in these formal languages) LWG1(using) NP-(logical inference rules).
+
+
+[[['A'], ['computer']], [['can'], [['reason'], [['automatically']], [['about'], [[['statements']], [['in'], [[['these'], ['formal'], ['languages']], [['using'], [['logical'], ['inference'], ['rules']]]]]]]]], ['.']]
+[['A'], ['computer']]
+[['can'], [['reason'], [['automatically']], [['about'], [[['statements']], [['in'], [[['these'], ['formal'], ['languages']], [['using'], [['logical'], ['inference'], ['rules']]]]]]]]]
+[['reason'], [['automatically']], [['about'], [[['statements']], [['in'], [[['these'], ['formal'], ['languages']], [['using'], [['logical'], ['inference'], ['rules']]]]]]]]
+[['about'], [[['statements']], [['in'], [[['these'], ['formal'], ['languages']], [['using'], [['logical'], ['inference'], ['rules']]]]]]]
+[[['statements']], [['in'], [[['these'], ['formal'], ['languages']], [['using'], [['logical'], ['inference'], ['rules']]]]]]
+[['in'], [[['these'], ['formal'], ['languages']], [['using'], [['logical'], ['inference'], ['rules']]]]]
+[[['these'], ['formal'], ['languages']], [['using'], [['logical'], ['inference'], ['rules']]]]
+[['these'], ['formal'], ['languages']]
+[['using'], [['logical'], ['inference'], ['rules']]]
+[['logical'], ['inference'], ['rules']]
+

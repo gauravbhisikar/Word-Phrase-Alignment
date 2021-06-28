@@ -1,0 +1,1 @@
+[ROOT [S [NP [DT This] [NN desire]] [VP [VBZ dates] [PRT [RP back]] [PP [TO to] [NP [NP [ADVP [IN at] [JJS least]] [DT the] [NN time]] [PP [IN of] [NP [JJ ancient] [NNP Greece]]]]]] [. .]]]

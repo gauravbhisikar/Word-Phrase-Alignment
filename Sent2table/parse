@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP look)
+      (PP (IN to)
+        (NP (JJ intelligent) (NN software)))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB automate)
+              (NP (JJ routine) (NN labor)))
+            (, ,)
+            (VP (VB understand)
+              (NP (NN speech)
+                (CC or)
+                (NNS images)))
+            (, ,)
+            (VP (VB make)
+              (NP (NNS diagnoses))
+              (PP (IN in)
+                (NP (NN medicine))))
+            (CC and)
+            (VP (VB support)
+              (NP (JJ basic) (JJ scientiﬁc) (NN research)))))))
+    (. .)))

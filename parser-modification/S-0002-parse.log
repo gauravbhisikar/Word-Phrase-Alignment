@@ -1,0 +1,5 @@
+[main] INFO edu.stanford.nlp.parser.lexparser.LexicalizedParser - Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [1.4 sec].
+Parsing file: S-0002
+Parsing [sent. 1 len. 13]: This desire dates back to at least the time of ancient Greece .
+Parsed file: S-0002 [1 sentences].
+Parsed 13 words in 1 sentences (31.86 wds/sec; 2.45 sents/sec).

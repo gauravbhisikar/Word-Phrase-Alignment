@@ -1,0 +1,5 @@
+To use this python script you just need to create constituency parse of the sentence and just have to paste it inside parse.txt then run
+
+python sent2table.py
+
+we have mention one example in this folder with output for reference

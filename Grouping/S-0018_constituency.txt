@@ -1,0 +1,1 @@
+[ROOT [S [RB Then] [NP [NP [DT a] [NN series]] [PP [IN of] [NP [VBN hidden] [NNS layers]]]] [VP [VBZ extracts] [NP [NP [ADJP [RB increasingly] [JJ abstract]] [NNS features]] [PP [IN from] [NP [DT the] [NN image]]]]] [. .]]]

@@ -1,0 +1,35 @@
+PATH setting for stanford parser:
+--------------------------------
+
+Please set the path to stanford parser in the following file.
+
+'parser-modification.sh'
+
+for e.g.
+stanford_parser_path='/home/sriram/phrase-alignment/stanford-parser-full-2020-11-17'
+
+
+RUN:
+----
+
+
+sh parser-modification.sh input
+
+OUTPUT:
+-------
+
+
+output comes in the standard output.
+
+For e.g. for the given input sentence "A big fat boy is eating a lot of fruits"
+
+output will be as follows.
+
+[[['A'], ['big'], ['fat'], ['boy']], [['is'], [['eating'], [[['a'], ['lot']], [['of'], [['fruits']]]]]], ['.']]
+[['A'], ['big'], ['fat'], ['boy']]
+[['is'], [['eating'], [[['a'], ['lot']], [['of'], [['fruits']]]]]]
+[['eating'], [[['a'], ['lot']], [['of'], [['fruits']]]]]
+[[['a'], ['lot']], [['of'], [['fruits']]]]
+[['a'], ['lot']]
+[['of'], [['fruits']]]
+

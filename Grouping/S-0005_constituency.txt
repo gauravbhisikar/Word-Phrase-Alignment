@@ -1,0 +1,1 @@
+[ROOT [S [PP [IN For] [NP [NN example]]] [, ,] [NP [NP [NNP IBM] [POS 's]] [NNP Deep] [NNP Blue] [JJ chess-playing] [NN system]] [VP [VBD defeated] [NP [NP [NN world] [NN champion] [NNP Garry] [NNP Kasparov]] [PP [IN in] [NP [NP [CD 1997]] [PRN [-LRB- -LRB-] [NP [NNP Hsu]] [, ,] [NP [CD 2002]] [-RRB- -RRB-]]]]]] [. .]]]

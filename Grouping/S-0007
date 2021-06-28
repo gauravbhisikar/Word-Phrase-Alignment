@@ -1,0 +1,32 @@
+----
+0025
+S-> Much of this knowledge is subjective and intuitive, and therefore diﬃcult to articulate in a formal way.
+T-> इस ज्ञान का अधिकांश हिस्‍सा व्यक्तिपरक और सहज है, और इसलिए यह औपचारिक रूप से व्यक्त करने के लिए कठिन है।
+S-1 NP-(Much of this knowledge) LWG(is subjective and intuitive, and therefore diﬃcult to articulate) PP-(in a formal way).
+
+[[[['Much']], [['of'], [['this'], ['knowledge']]]], [[['is'], [['subjective'], ['and'], ['intuitive']]], [','], ['and'], [['therefore']], [['di\xef\xac\x83cult'], [[['to'], [['articulate'], [['in'], [['a'], ['formal'], ['way']]]]]]]], ['.']]
+
+[[['Much']], [['of'], [['this'], ['knowledge']]]]
+
+[['of'], [['this'], ['knowledge']]]
+
+[['this'], ['knowledge']]
+
+[[['is'], [['subjective'], ['and'], ['intuitive']]], [','], ['and'], [['therefore']], [['di\xef\xac\x83cult'], [[['to'], [['articulate'], [['in'], [['a'], ['formal'], ['way']]]]]]]]
+
+[['is'], [['subjective'], ['and'], ['intuitive']]]
+
+[['subjective'], ['and'], ['intuitive']]
+
+[['di\xef\xac\x83cult'], [[['to'], [['articulate'], [['in'], [['a'], ['formal'], ['way']]]]]]]
+
+[['to'], [['articulate'], [['in'], [['a'], ['formal'], ['way']]]]]
+
+[['articulate'], [['in'], [['a'], ['formal'], ['way']]]]
+
+[['in'], [['a'], ['formal'], ['way']]]
+
+[['a'], ['formal'], ['way']]
+
+
+

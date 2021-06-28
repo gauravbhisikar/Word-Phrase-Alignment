@@ -1,0 +1,1 @@
+[ROOT [S [NP [DT This] [NN state] [NN information]] [VP [MD could] [VP [VB be] [ADJP [JJ analogous] [PP [TO to] [NP [NP [DT a] [NN counter] [CC or] [NN pointer]] [PP [IN in] [NP [DT a] [JJ traditional] [NN computer] [NN program]]]]]]]] [. .]]]

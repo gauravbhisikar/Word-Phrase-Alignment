@@ -1,0 +1,33 @@
+----
+0013
+S->The hierarchy of concepts enables the computer to learn complicated concepts by building them out of simpler ones.
+
+S-1 NP-(The hierarchy) PP-(of concepts) LWG-(enables) NP1-(the computer to learn complicated concepts) PP1-(by building them out of) NP2-(simpler ones).
+
+
+[[[['The'], ['hierarchy']], [['of'], [['concepts']]]], [['enables'], [['the'], ['computer']], [[['to'], [['learn'], [['complicated'], ['concepts']], [['by'], [[['building'], [['them']], [['out']], [['of'], [['simpler'], ['ones']]]]]]]]]], ['.']]
+
+[[['The'], ['hierarchy']], [['of'], [['concepts']]]]
+
+[['The'], ['hierarchy']]
+
+[['of'], [['concepts']]]
+
+[['enables'], [['the'], ['computer']], [[['to'], [['learn'], [['complicated'], ['concepts']], [['by'], [[['building'], [['them']], [['out']], [['of'], [['simpler'], ['ones']]]]]]]]]]
+
+[['the'], ['computer']] 
+[['to'], [['learn'], [['complicated'], ['concepts']], [['by'], [[['building'], [['them']], [['out']], [['of'], [['simpler'], ['ones']]]]]]]]
+
+[['learn'], [['complicated'], ['concepts']], [['by'], [[['building'], [['them']], [['out']], [['of'], [['simpler'], ['ones']]]]]]]
+
+[['complicated'], ['concepts']]
+
+[['by'], [[['building'], [['them']], [['out']], [['of'], [['simpler'], ['ones']]]]]]
+
+[['building'], [['them']], [['out']], [['of'], [['simpler'], ['ones']]]]
+
+[['of'], [['simpler'], ['ones']]]
+
+[['simpler'], ['ones']]
+
+

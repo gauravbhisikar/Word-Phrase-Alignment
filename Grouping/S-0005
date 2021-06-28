@@ -1,0 +1,32 @@
+---
+0018
+S->For example, IBM’s Deep Blue chess-playing system defeated world champion Garry Kasparov in 1997 (Hsu, 2002).
+T-> उदाहरण के लिए, आई.बी.म के दीप ब्‍ल्‍यू शतरंज खेलने वाले तंऋ ने विश्व विजेता गैरी कास्परोव को १९९७ मे हराया |
+
+S-1 PP-(For) NP-(example), NP1-(IBM’s Deep Blue chess-playing system) LWG-(defeated) NP2-(world champion Garry Kasparov in 1997 (Hsu, 2002)).
+
+[[['For'], [['example']]], [','], [[['IBM'], ['\xe2\x80\x99s'], ['Deep'], ['Blue']], [['chess'], ['-'], ['playing'], ['system']]], [['defeated'], [[[['world'], ['champion']], ['Garry'], ['Kasparov']], [['in'], [['1997']]]], [['-LRB-'], [['Hsu']], [','], [['2002']], ['-RRB-']]], ['.']]
+
+[['For'], [['example']]]
+
+[[['IBM'], ['\xe2\x80\x99s'], ['Deep'], ['Blue']], [['chess'], ['-'], ['playing'], ['system']]]
+
+[['IBM'], ['\xe2\x80\x99s'], ['Deep'], ['Blue']]
+
+[['chess'], ['-'], ['playing'], ['system']]
+
+[['defeated'], [[[['world'], ['champion']], ['Garry'], ['Kasparov']], [['in'], [['1997']]]], [['-LRB-'], [['Hsu']], [','], [['2002']], ['-RRB-']]]
+
+[[[['world'], ['champion']], ['Garry'], ['Kasparov']], [['in'], [['1997']]]]
+
+[[['world'], ['champion']], ['Garry'], ['Kasparov']]
+
+[['world'], ['champion']]
+
+[['in'], [['1997']]]
+
+[['-LRB-'], [['Hsu']], [','], [['2002']], ['-RRB-']]
+
+
+
+

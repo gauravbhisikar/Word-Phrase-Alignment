@@ -1,0 +1,29 @@
+[ROOT
+  [S
+    [PP [IN In]
+      [NP [DT the] [JJ Western] [NN world]]]
+    [NP [NN today]]
+    [, ,]
+    [NP
+      [NP [DT a] [NN storm]]
+      [PP [IN of]
+        [NP [NN controversy]]]]
+    [VP [VBD rages]
+      [PP [IN over]
+        [NP
+          [NP
+            [NP [DT the] [NN cult]]
+            [PP [IN of]
+              [NP [NN violence]]]]
+          [CC or]
+          [NP
+            [NP [JJ excessive] [NN portrayal]
+              [CC and]
+              [NN glorification]]
+            [PP [IN of]
+              [NP [NN violence]]]]]]
+      [PP [IN by]
+        [NP [NNS movies]
+          [CC and]
+          [NN television]]]]
+    [. .]]]

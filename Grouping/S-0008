@@ -1,0 +1,30 @@
+----
+0026
+S-> Computers need to capture this same knowledge in order to behave in an intelligent way.
+T-> बुद्धिमानी से व्यवहार करने के लिए कंप्यूटर को इसी ज्ञान को प्र‍ाप्‍त करने की आवश्यकता है।
+
+S-1 NP-(Computers) LWG-(need to capture) NP1-(this same knowledge) LWG-(in order to behave) PP-(in an intelligent way).
+
+
+[[['Computers']], [['need'], [[['to'], [['capture'], [['this'], ['same'], ['knowledge']], [['in'], [['order'], [[['to'], [['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]]]]]]]]], ['.']]
+
+[['need'], [[['to'], [['capture'], [['this'], ['same'], ['knowledge']], [['in'], [['order'], [[['to'], [['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]]]]]]]]]
+
+[['to'], [['capture'], [['this'], ['same'], ['knowledge']], [['in'], [['order'], [[['to'], [['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]]]]]]]
+
+[['capture'], [['this'], ['same'], ['knowledge']], [['in'], [['order'], [[['to'], [['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]]]]]]
+
+[['this'], ['same'], ['knowledge']]
+
+[['in'], [['order'], [[['to'], [['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]]]]]
+
+[['order'], [[['to'], [['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]]]]
+
+[['to'], [['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]]
+
+[['behave'], [['in'], [['an'], ['intelligent'], ['way']]]]
+
+[['in'], [['an'], ['intelligent'], ['way']]]
+
+[['an'], ['intelligent'], ['way']]
+

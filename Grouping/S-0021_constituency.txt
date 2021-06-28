@@ -1,0 +1,1 @@
+[ROOT [S [NP [NNS Images]] [VP [VBD reproduced] [PP [IN with] [NP [NN permission]]] [PP [IN from] [NP [NNP Zeiler] [CC and] [NNP Fergus]]] [PRN [-LRB- -LRB-] [NP [CD 2014]] [-RRB- -RRB-]]] [. .]]]

@@ -1,0 +1,20 @@
+----
+0030
+S-> This is known as the knowledge base approach to artiﬁcial intelligence.
+S-1 NP-(This) LWG-(is known) NP1-(as the knowledge base approach) PP-(to artiﬁcial intelligence).
+
+
+[[['This']], [['is'], [['known'], [['as'], [['the'], ['knowledge'], ['base'], ['approach']]], [['to'], [['arti\xef\xac\x81cial'], ['intelligence']]]]], ['.']]
+
+[['is'], [['known'], [['as'], [['the'], ['knowledge'], ['base'], ['approach']]], [['to'], [['arti\xef\xac\x81cial'], ['intelligence']]]]]
+
+[['known'], [['as'], [['the'], ['knowledge'], ['base'], ['approach']]], [['to'], [['arti\xef\xac\x81cial'], ['intelligence']]]]
+
+[['as'], [['the'], ['knowledge'], ['base'], ['approach']]]
+
+[['the'], ['knowledge'], ['base'], ['approach']]
+
+[['to'], [['arti\xef\xac\x81cial'], ['intelligence']]]
+
+[['arti\xef\xac\x81cial'], ['intelligence']]
+

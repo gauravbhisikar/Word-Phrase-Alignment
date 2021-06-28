@@ -1,0 +1,1 @@
+[ROOT [S [NP [NP [DT Another] [NN perspective]] [PP [IN on] [NP [JJ deep] [NN learning]]]] [VP [VBZ is] [SBAR [IN that] [S [NP [NN depth]] [VP [VBZ enables] [NP [DT the] [NN computer] [S [VP [TO to] [VP [VB learn] [NP [DT a] [NN multistep] [NN computer] [NN program]]]]]]]]]] [. .]]]

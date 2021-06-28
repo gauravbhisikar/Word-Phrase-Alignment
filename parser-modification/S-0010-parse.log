@@ -1,0 +1,5 @@
+[main] INFO edu.stanford.nlp.parser.lexparser.LexicalizedParser - Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [0.9 sec].
+Parsing file: S-0010
+Parsing [sent. 1 len. 12]: This book is about a solution to these more intuitive problems .
+Parsed file: S-0010 [1 sentences].
+Parsed 12 words in 1 sentences (43.80 wds/sec; 3.65 sents/sec).

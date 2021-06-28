@@ -1,0 +1,37 @@
+----
+0002
+S-> This desire dates back to at least the time of ancient Greece.
+T-> यह इच्छा कम से कम प्राचीन ग्रीस के समय की है।
+
+S-1 NP-(This desire) LWG-(dates back) NP1-(to at least the time) PP-(of ancient Greece).
+
+
+[[['This'], ['desire']], [['dates'], [['back']], [['to'], [[[[['at'], ['least']]], ['the'], ['time']], [['of'], [['ancient'], ['Greece']]]]]], ['.']]
+
+[['This'], ['desire']]
+
+[['dates'], [['back']], [['to'], [[[[['at'], ['least']]], ['the'], ['time']], [['of'], [['ancient'], ['Greece']]]]]]
+
+[['to'], [[[[['at'], ['least']]], ['the'], ['time']], [['of'], [['ancient'], ['Greece']]]]]
+
+[[[[['at'], ['least']]], ['the'], ['time']], [['of'], [['ancient'], ['Greece']]]]
+
+[[[['at'], ['least']]], ['the'], ['time']]
+
+[['at'], ['least']]
+
+[['of'], [['ancient'], ['Greece']]]
+
+[['ancient'], ['Greece']]
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+[ROOT [S [NP [NP [NNP Networks]] [PP [IN with] [NP [JJR greater] [NN depth]]]] [VP [MD can] [VP [VB execute] [NP [JJR more] [NNS instructions]] [PP [IN in] [NP [NN sequence]]]]] [. .]]]

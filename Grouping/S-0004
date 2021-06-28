@@ -1,0 +1,26 @@
+----
+0016
+S-> For this reason, we call this approach to AI deep learning.
+T-> इस कारण से हम इस दृष्टिकोण को ए.आई. दीप ल‌्णीग |
+
+S-1 PP-(For this reason), NP-(we) LWG-(call) NP1-(this approach to AI deep learning).
+
+
+[[['For'], [['this'], ['reason']]], [','], [['we']], [['call'], [['this'], ['approach']], [['to'], [['AI'], [['deep'], ['learning']]]]], ['.']]
+
+[['For'], [['this'], ['reason']]]
+
+[['this'], ['reason']]
+
+[['call'], [['this'], ['approach']], [['to'], [['AI'], [['deep'], ['learning']]]]]
+
+[['this'], ['approach']]
+
+[['to'], [['AI'], [['deep'], ['learning']]]]
+
+[['AI'], [['deep'], ['learning']]]
+
+[['deep'], ['learning']]
+
+
+

@@ -1,0 +1,1 @@
+[ROOT [S [NP [DT The] [NN input]] [VP [VBZ is] [VP [VBN presented] [PP [IN at] [NP [NP [DT the] [JJ visible] [NN layer]] [, ,] [VP [ADVP [RB so]] [VBN named] [SBAR [IN because] [S [NP [PRP it]] [VP [VBZ contains] [NP [DT the] [NNS variables]] [SBAR [IN that] [S [NP [PRP we]] [VP [VBP are] [ADJP [JJ able] [S [VP [TO to] [VP [VB observe]]]]]]]]]]]]]]]] [. .]]]
